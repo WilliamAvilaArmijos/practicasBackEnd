@@ -1,0 +1,15 @@
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\bin\Debug\net6.0\TareaInterfaz.exe
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\bin\Debug\net6.0\TareaInterfaz.deps.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\bin\Debug\net6.0\TareaInterfaz.runtimeconfig.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\bin\Debug\net6.0\TareaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\bin\Debug\net6.0\TareaInterfaz.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.csproj.AssemblyReference.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.AssemblyInfoInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.AssemblyInfo.cs
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\refint\TareaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\TareaInterfaz.genruntimeconfig.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\TareaInterfaz\TareaInterfaz\obj\Debug\net6.0\ref\TareaInterfaz.dll
