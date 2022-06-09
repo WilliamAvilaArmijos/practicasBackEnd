@@ -1,0 +1,7 @@
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.AssemblyReference.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.Form1.resources
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.GenerateResource.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.AssemblyInfoInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.AssemblyInfo.cs
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Practica\Practica\obj\Debug\net6.0-windows\Practica.csproj.CoreCompileInputs.cache
