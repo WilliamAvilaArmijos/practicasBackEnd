@@ -1,0 +1,15 @@
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll
