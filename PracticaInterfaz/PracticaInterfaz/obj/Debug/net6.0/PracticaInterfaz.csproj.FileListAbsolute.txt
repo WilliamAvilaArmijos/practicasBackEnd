@@ -1,0 +1,15 @@
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\bin\Debug\net6.0\PracticaInterfaz.exe
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\bin\Debug\net6.0\PracticaInterfaz.deps.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\bin\Debug\net6.0\PracticaInterfaz.runtimeconfig.json
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\bin\Debug\net6.0\PracticaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\bin\Debug\net6.0\PracticaInterfaz.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.csproj.AssemblyReference.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.AssemblyInfoInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.AssemblyInfo.cs
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\refint\PracticaInterfaz.dll
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.pdb
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\PracticaInterfaz.genruntimeconfig.cache
+C:\Users\Willirin\Documents\BANCO PICHINCHA\Back End\Ejercicios\CRUD\PracticaInterfaz\PracticaInterfaz\obj\Debug\net6.0\ref\PracticaInterfaz.dll
